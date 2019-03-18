@@ -1,4 +1,4 @@
-
+package com.lr.learn;
 
 public class ChengFaBiao {
 	public static void main(String[] args) {
