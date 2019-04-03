@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students 	xmlns="http://www.zhengda.com" 
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.zhengda.com ../xmd/student.xsd">
+			<student name="dsa" age="10"/>
+			
+			
+			
+			
+			<stu>
+			<name>2</name>
+			<age>1</age>
+			<sex>s</sex>
+			</stu>
+	</students>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.zhengda.com" 
+xmlns:tns="http://www.zhengda.com" 
+elementFormDefault="qualified">
+<element name="students">
+	<complexType>
+		<sequence>
+			<element name="student">
+				<complexType>
+					<attribute name="name" type="string" default="a"/>
+					<attribute name="age" type="int" default="0"/>
+				</complexType>
+			</element>
+			<element name="stu">
+				<complexType>
+					<sequence>
+						<element name="name" type="string" default="没名"/>
+						<element name="age"  type="int" default="0"     />
+						<element name="sex"  type="string" default="男"/>
+					</sequence>
+				</complexType>
+			</element>
+		</sequence>
+	</complexType>
+</element>
+
+
+
+
+</schema>
